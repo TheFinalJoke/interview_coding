@@ -27,7 +27,7 @@ class Stack():
 
 if __name__ == "__main__":
     stack = Stack([])
-
+    breakpoint()
     stack.push("Hello")
     stack.push("World")
 
